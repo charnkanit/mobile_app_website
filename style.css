@@ -5,4 +5,7 @@ h1 {
 button {
     border: 2px solid #AAA;
     background-color: #555;
+    font-size: 15px;
+    height: 45px;
+    width: 60px;
 }
